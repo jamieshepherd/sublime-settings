@@ -1,26 +1,27 @@
 {
-	"bold_folder_labels": true,
-	"color_scheme": "Packages/Theme - Flatland/Flatland Monokai.tmTheme",
-	"detect_indentation": false,
-	"ensure_newline_at_eof_on_save": true,
-	"font_face": "Consolas",
-	"font_size": 13,
+    "bold_folder_labels": true,
+    "color_scheme": "Packages/Dayle Rees Color Schemes/sublime/peacock.tmTheme",
+    "detect_indentation": false,
+    "ensure_newline_at_eof_on_save": true,
     "flatland_square_tabs": true,
-	"ignored_packages":
-	[
-		"Markdown",
-		"Vintage"
-	],
-	"line_padding_bottom": 5,
-	"line_padding_top": 5,
-	"rulers":
-	[
-		80,
-		120
-	],
-	"save_on_focus_lost": true,
-	"tab_size": 4,
-	"theme": "Flatland Dark.sublime-theme",
-	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true
+    "font_face": "Consolas",
+    "font_size": 13,
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+    "line_padding_bottom": 5,
+    "line_padding_top": 5,
+    "rulers":
+    [
+        80,
+        120
+    ],
+    "save_on_focus_lost": true,
+    "spacegray_tabs_auto_width": true,
+    "tab_size": 4,
+    "theme": "peacock.sublime-theme",
+    "spacegray_tabs_large": true,
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": true
 }
